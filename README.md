@@ -1,20 +1,28 @@
-# Lucas
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.png">
+  <img alt="Lucas Lebihan — Quantitative Engineer. Pricing, Risk &amp; Python." src="assets/profile-light.png">
+</picture>
 
-**Quantitative development · Financial engineering**
+# Lucas Lebihan
+
+**Quantitative Engineer · Pricing, Risk & Python**
 
 I build software for quantitative finance: numerical models, Python APIs,
 market-data pipelines and interactive tools. My projects connect financial
 concepts with the engineering needed to test, explain and operate them.
 
-**[Try the interactive option-pricing lab](https://pricing.lucaslebihan.dev/)**
+**[Portfolio](https://lucaslebihan.dev/en/)**
+· **[LinkedIn](https://www.linkedin.com/in/lucascjlebihan)**
+· **[Try the interactive option-pricing lab](https://pricing.lucaslebihan.dev/)**
 · **[Contact me](mailto:contact@lucaslebihan.dev)**
 
 ## Selected projects
 
 | Project | What it does | Engineering focus |
 | --- | --- | --- |
-| [DeltaCore](https://github.com/HtFilia/DeltaCore) | European option pricing, Greeks, implied volatility and risk analytics | Pure numerical kernels, typed FastAPI boundaries, reference and invariant tests |
 | [Option Model Lab](https://github.com/HtFilia/option-model-lab) | Interactive exploration and calibration of option-pricing models | React/TypeScript, Python numerics, documented browser/API computation boundaries |
+| [DeltaCore](https://github.com/HtFilia/DeltaCore) | European option pricing, Greeks, implied volatility and risk analytics | Pure numerical kernels, typed FastAPI boundaries, reference and invariant tests |
 | [TickerFlow](https://github.com/HtFilia/tickerflow) | Local OHLCV ingestion, quality reports, Parquet storage and time bars | Explicit schemas, UTC time conventions, Polars/DuckDB and query APIs |
 | [TradeOps](https://github.com/HtFilia/tradeops) | Simulated market data and order execution with a React dashboard | Asynchronous Python services, Redis streams, PostgreSQL and integration tests |
 | [Dotfiles](https://github.com/HtFilia/dotfiles) | Reproducible workstation and Debian VPS environments | Bash/Chezmoi profiles, pinned downloads, recovery snapshots and cross-platform CI |
