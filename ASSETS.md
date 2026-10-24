@@ -2,7 +2,8 @@
 
 The light and dark PNG headers in `assets/` are 1280 × 360 exports of the
 paper-and-sage professional identity: Lucas Lebihan, Quantitative Engineer,
-Pricing, Risk & Python. The README uses native GitHub colour-scheme selection,
+Equity ETF · Delta One · Pricing, beside the portfolio's Fig. 1 (a simulated
+geometric Brownian motion). The README uses native GitHub colour-scheme selection,
 with a light fallback and a descriptive text alternative.
 
 Editable SVG artwork, pinned fonts and the export script are maintained in the
@@ -17,7 +18,8 @@ If the authenticated CLI token lacks the `user` scope, use GitHub's profile UI:
 
 1. Open your GitHub profile and choose **Edit profile**.
 2. Set **Name** to `Lucas Lebihan`.
-3. Set **Bio** to `Quantitative Engineer · Pricing, Risk & Python. Building tools for quantitative finance and reliable market-data systems.`
+3. Set **Bio** to `Quantitative Engineer · Equity ETF · Delta One · Pricing`, the tagline shared
+   with the portfolio, the résumé and LinkedIn.
 4. Set **Website** to `https://lucaslebihan.dev/en/`.
 5. Save. Keep the current avatar and other personal settings.
 
