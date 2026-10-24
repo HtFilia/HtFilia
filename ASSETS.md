@@ -7,7 +7,7 @@ geometric Brownian motion). The README uses native GitHub colour-scheme selectio
 with a light fallback and a descriptive text alternative.
 
 Editable SVG artwork, pinned fonts and the export script are maintained in the
-author's webfolio repository (`brand/` and `scripts/build-brand.mjs`). Copies
+author's private webfolio repository (`brand/` and `scripts/build-brand.mjs`). Copies
 are committed here; viewing this profile does not depend on another repository
 being public or on a dynamic image service.
 
