@@ -1,20 +1,23 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.png">
-  <img alt="Lucas Lebihan — Quantitative Engineer. Equity ETF · Delta One · Pricing. Beside it, a simulated geometric Brownian motion with its terminal histogram and lognormal density." src="assets/profile-light.png">
+  <img alt="Lucas Lebihan — Quantitative Engineer / Quant Developer. Equity ETF · Delta One · Pricing. Beside it, a simulated geometric Brownian motion with its terminal histogram and lognormal density." src="assets/profile-light.png">
 </picture>
 
 # Lucas Lebihan
 
-**Quantitative Engineer · Equity ETF · Delta One · Pricing**
+**Quantitative Engineer / Quant Developer · Equity ETF · Delta One · Pricing**
+
+Based in Paris, open to relocating to Geneva or Annecy.
 
 I build software for quantitative finance: numerical models, Python APIs,
 market-data pipelines and interactive tools. My projects connect financial
 concepts with the engineering needed to test, explain and operate them.
 
-**[Portfolio](https://lucaslebihan.dev/en/)**
+**[Portfolio](https://lucaslebihan.dev/en/?ref=gh)**
 · **[LinkedIn](https://www.linkedin.com/in/lucascjlebihan)**
 · **[Try the interactive option-pricing lab](https://pricing.lucaslebihan.dev/)**
+· **[Résumé (PDF)](https://lucaslebihan.dev/cv-en.pdf)**
 · **[Contact me](mailto:contact@lucaslebihan.dev)**
 
 ## Selected projects
